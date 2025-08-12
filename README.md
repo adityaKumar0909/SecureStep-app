@@ -13,5 +13,10 @@ SecureSteps is a Flutter-based women’s safety application that runs **24/7 in 
 - **Dart** (Programming Language)  
 
 ## Screenshots
+![App Screenshot](app_ss_1.jpg)
+
+![App Screenshot](app_ss_2.jpg)
+
+
 
 
